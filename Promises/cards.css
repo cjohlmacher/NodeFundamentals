@@ -1,0 +1,10 @@
+.card {
+    position: fixed;
+    left: 25%;
+    top: 25%;
+}
+
+.deck {
+    width: 100vw;
+    height: 100vh;
+}
